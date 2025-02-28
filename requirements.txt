@@ -1,5 +1,5 @@
-numpy
-pandas
-scikit-learn
-streamlit
-pickle
+numpy>=2.2.3
+pandas>=2.2.3
+scikit-learn>=1.6.1
+streamlit>=1.42.2
+rich>=10.14.0
